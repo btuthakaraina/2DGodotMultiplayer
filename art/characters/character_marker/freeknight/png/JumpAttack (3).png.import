@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bujx43rcy5b85"
-path="res://.godot/imported/background_02.png-a3dbda79b8619c68549544fca458018c.ctex"
+uid="uid://0dvykdianyxf"
+path="res://.godot/imported/JumpAttack (3).png-d2893e755587b8de011086fd4ddbbca5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/backgrounds/background_02.png"
-dest_files=["res://.godot/imported/background_02.png-a3dbda79b8619c68549544fca458018c.ctex"]
+source_file="res://art/characters/character_marker/freeknight/png/JumpAttack (3).png"
+dest_files=["res://.godot/imported/JumpAttack (3).png-d2893e755587b8de011086fd4ddbbca5.ctex"]
 
 [params]
 
